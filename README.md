@@ -31,27 +31,21 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,json,js,nodejs,html,css,git,github,cmake,visualstudio,opencv,opengl,blender,godot,unreal" />
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlimAli333848">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlimAli333848&langs_count=8&layout=compact&theme=cobalt&border_radius=10" alt="Top Languages" />
-  </a>
+
+<img src="https://img.shields.io/badge/SFML-Game%20Development-8CC445?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Physics%20Simulation-7B1FA2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
 </p>
 
 ## 🔗 Connect with Me
